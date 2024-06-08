@@ -14,4 +14,10 @@ console.log(`El resultado de la SUMA es ${resultadoSuma}`)
 console.log(`El resultado de la RESTA es ${resultadoResta}`)
 console.log(`El resultado de la MULTIPLICACION es ${resultadoMultiplicacion}`)
 
-if(resultadoSuma>=resultadoResta){console.log()}
+if(resultadoSuma>resultadoResta>resultadoMultiplicacion){
+    console.log(`El mayor resultado es la SUMA ${resultadoSuma}`);
+}else if(resultadoResta>resultadoSuma>resultadoMultiplicacion){
+    console.log(`El mayor resultado es la RESTA ${resultadoResta}`);
+}else{
+    console.log(`El mayor resultado es la MULTIPLICACION ${resultadoMultiplicacion}`);
+}
