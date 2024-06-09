@@ -1,4 +1,5 @@
 // EJERCICIO 4 --- OPERACIONES ARITMETICAS BASICAS
+console.log(`EJERCICIO 4`)
 
 let numeroA=35
 let numeroB=7

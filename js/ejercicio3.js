@@ -1,4 +1,5 @@
 //EJERCICIO 3 --- DETERMINACION DE NUMEROS PRIMOS
+console.log(`EJERCICIO 3.`)
 
 let numeroEntero=32
 let esPrimoSi= 1==32
