@@ -21,6 +21,6 @@
 
 Para ejecutar los scripts, necesitas tener Node.js en tu pc. Si no lo tienes puedes descargarlo desde el siguiente enlace [Node.js](https://nodejs.org/).
 
-Deberas Clonar este repositorio en tu máquina local:
+Deberas Clonar este repositorio en tu VSCode, abre un terminal bash e inserta la siguiente linea de codigo:
    ```bash
    git clone https://github.com/ELIASMJUAN/ejercicios-javascript.git 
